@@ -1,0 +1,5 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+edge-tts==6.1.9
+pydantic==2.6.4
+mangum==0.17.0
